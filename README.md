@@ -12,9 +12,9 @@ Notes:
 
 - This program has been built to display Portable Pixel Map (PPM) Files Only. This means that ppm images will ONLY be able to open and save on the encryption program, while the decoder will only read PPM images. For the sake of the project, test images were converted to ascii format (P3) and raw format (P6) on GIMP. You can then open and overwrite the image with your encrypted message. No image downloads necessary. 
 
-- Encrypted messages should not exceed more than 250 characters.
+- Encrypted messages should not exceed more than 256 characters.
 
-- Some images may be too small to fit 250 characters, so it is recommended a medium to large image is selected for encryption. I've placed some input validations to check for this.
+- Some images may be too small to fit 256 characters, so it is recommended a medium to large image is selected for encryption. I've placed some input validations to check for this.
 
 - Only letters and numbers will display, while punctuation and other characters will not be displayed in the decoding. 
 
