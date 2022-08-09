@@ -10,9 +10,7 @@ Notes:
 
 - The decoder and encoder are specifically built to hide important messages within images of different color values. Blue images are ideal in encrypting messages as they have the least intensity amongst the RGB values. A common algorithm known as the least significant bit (LSB) was used to create the effect of hiding a user's message in an image without notice of the human. It replaces the 3 leftmost bits in each color pixel's byte while not significantly altering the actual image.  
 
-- This program has been built to display Portable Pixel Map (PPM) Files Only. This means that ppm images will ONLY be able to open and save on the encryption program, while the decoder will only read PPM images. 
-
-- For the best results, images should be converted to ascii format (P3) or raw format (P6) on GIMP. You can then open and overwrite the image with your encrypted message. I will have test images, so you won't have to bother downloading any images. 
+- This program has been built to display Portable Pixel Map (PPM) Files Only. This means that ppm images will ONLY be able to open and save on the encryption program, while the decoder will only read PPM images. For the sake of the project, test images were converted to ascii format (P3) and raw format (P6) on GIMP. You can then open and overwrite the image with your encrypted message. No image downloads necessary. 
 
 - Encrypted messages should not exceed more than 250 characters.
 
