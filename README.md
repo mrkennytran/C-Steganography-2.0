@@ -8,7 +8,7 @@ Steganography is the practice of hiding a secret message in something that is no
 
 Notes:
 
-- The decoder and encoder are specifically built to hide important messages within images of different color values. But, blue images are ideal in encrypting messages as they have the least intensity amongst the RGB values.
+- The decoder and encoder are specifically built to hide important messages within images of different color values. Blue images are ideal in encrypting messages as they have the least intensity amongst the RGB values. A common algorithm known as the least significant bit (LSB) was used to create the effect of hiding a user's message in an image without notice of the human. It replaces the 3 leftmost bits in each color pixel's byte while not significantly altering the actual image.  
 
 - This program has been built to display Portable Pixel Map (PPM) Files Only. This means that ppm images will ONLY be able to open and save on the encryption program, while the decoder will only read PPM images. 
 
@@ -19,5 +19,7 @@ Notes:
 - Some images may be too small to fit 250 characters, so it is recommended a medium to large image is selected for encryption. I've placed some input validations to check for this.
 
 - Only letters and numbers will display, while punctuation and other characters will not be displayed in the decoding. 
+
+
 
 HAPPY CODING!
