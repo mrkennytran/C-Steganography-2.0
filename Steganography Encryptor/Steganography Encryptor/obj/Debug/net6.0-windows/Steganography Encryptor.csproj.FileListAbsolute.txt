@@ -1,0 +1,42 @@
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor_MarkupCompile.cache
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.exe
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.deps.json
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.runtimeconfig.json
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.dll
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.pdb
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor_MarkupCompile.lref
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.g.resources
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.AssemblyInfoInputs.cache
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.AssemblyInfo.cs
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.dll
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\refint\Steganography Encryptor.dll
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.pdb
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.genruntimeconfig.cache
+C:\Users\12283\source\repos\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\ref\Steganography Encryptor.dll
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.exe
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.deps.json
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.runtimeconfig.json
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.dll
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\bin\Debug\net6.0-windows\Steganography Encryptor.pdb
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor_MarkupCompile.cache
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor_MarkupCompile.lref
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.g.resources
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.AssemblyInfoInputs.cache
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.AssemblyInfo.cs
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.dll
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\refint\Steganography Encryptor.dll
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.pdb
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\Steganography Encryptor.genruntimeconfig.cache
+C:\Users\12283\source\repos\Steganography Project\Steganography Encryptor\Steganography Encryptor\obj\Debug\net6.0-windows\ref\Steganography Encryptor.dll
