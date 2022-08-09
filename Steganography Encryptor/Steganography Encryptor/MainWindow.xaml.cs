@@ -58,7 +58,7 @@ namespace Steganography_Encryptor {
             webDoc.StartInfo.UseShellExecute = true;
 
             //Reference file path - direct users to your help me guide 
-            webDoc.StartInfo.FileName = "https://www.comptia.org/blog/what-is-steganography#:~:text=Steganography%20is%20the%20practice%20of,to%20friends%20using%20invisible%20ink.";
+            webDoc.StartInfo.FileName = "https://github.com/mrkennytran/C-Steganography-2.0/blob/main/README.md";
 
             //Run task 
             webDoc.Start();

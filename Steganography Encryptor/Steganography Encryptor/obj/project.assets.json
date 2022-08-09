@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12283\\source\\repos\\Steganography Project\\Steganography Encryptor\\Steganography Encryptor\\Steganography Encryptor.csproj",
+      "projectUniqueName": "C:\\Users\\12283\\source\\repos\\Steganography Project\\C-Steganography-2.0\\Steganography Encryptor\\Steganography Encryptor\\Steganography Encryptor.csproj",
       "projectName": "Steganography Encryptor",
-      "projectPath": "C:\\Users\\12283\\source\\repos\\Steganography Project\\Steganography Encryptor\\Steganography Encryptor\\Steganography Encryptor.csproj",
+      "projectPath": "C:\\Users\\12283\\source\\repos\\Steganography Project\\C-Steganography-2.0\\Steganography Encryptor\\Steganography Encryptor\\Steganography Encryptor.csproj",
       "packagesPath": "C:\\Users\\12283\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12283\\source\\repos\\Steganography Project\\Steganography Encryptor\\Steganography Encryptor\\obj\\",
+      "outputPath": "C:\\Users\\12283\\source\\repos\\Steganography Project\\C-Steganography-2.0\\Steganography Encryptor\\Steganography Encryptor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12283\\AppData\\Roaming\\NuGet\\NuGet.Config",
