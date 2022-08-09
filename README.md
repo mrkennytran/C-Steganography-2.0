@@ -1,1 +1,23 @@
 # C-Steganography-2.0
+
+STEGANOGRAPHY PROGRAM: USER GUIDE
+
+By: Kenny Tran
+
+Steganography is the practice of hiding a secret message in something that is not a secret. To achieve this, The Secret Encryption program that I've created will hide a user's message inside of an image by converting each character into pixel bytes. The Secret Decoder program will decipher a user's message and display the results. 
+
+Notes:
+
+- The decoder and encoder are specifically built to hide important messages within images of different color values. But, blue images are ideal in encrypting messages as they have the least intensity amongst the RGB values.
+
+- This program has been built to display Portable Pixel Map (PPM) Files Only. This means that ppm images will ONLY be able to open and save on the encryption program, while the decoder will only read PPM images. 
+
+- For the best results, images should be converted to ascii format (P3) or raw format (P6) on GIMP. You can then open and overwrite the image with your encrypted message. I will have test images, so you won't have to bother downloading any images. 
+
+- Encrypted messages should not exceed more than 250 characters.
+
+- Some images may be too small to fit 250 characters, so it is recommended a medium to large image is selected for encryption. I've placed some input validations to check for this.
+
+- Only letters and numbers will display, while punctuation and other characters will not be displayed in the decoding. 
+
+HAPPY CODING!
