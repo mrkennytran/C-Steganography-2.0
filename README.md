@@ -18,6 +18,6 @@ Notes:
 
 - Only letters and numbers will display, while punctuation and other characters will not be displayed in the decoding. 
 
-
+- During the encryption process, messages are reversed as to further protect against detection.
 
 HAPPY CODING!
