@@ -1,0 +1,21 @@
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\bin\Debug\net6.0-windows\Steganography Decryptor.exe
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\bin\Debug\net6.0-windows\Steganography Decryptor.deps.json
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\bin\Debug\net6.0-windows\Steganography Decryptor.runtimeconfig.json
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\bin\Debug\net6.0-windows\Steganography Decryptor.dll
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\bin\Debug\net6.0-windows\Steganography Decryptor.pdb
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor_MarkupCompile.cache
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor_MarkupCompile.lref
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.g.resources
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.AssemblyInfoInputs.cache
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.AssemblyInfo.cs
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.dll
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\refint\Steganography Decryptor.dll
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.pdb
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\Steganography Decryptor.genruntimeconfig.cache
+C:\Users\12283\source\repos\Steganography Project\C-Steganography-2.0\Steganography Decryptor\Steganography Decryptor\obj\Debug\net6.0-windows\ref\Steganography Decryptor.dll
