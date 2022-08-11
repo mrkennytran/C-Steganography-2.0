@@ -136,7 +136,7 @@ namespace Steganography_Encryptor {
         #endregion
 
         #region METHODS
-        private Color Encode(int decVal, Color pixelClr) { //ENCRYPT CURRENT CHARACTER INTO PIXEL 
+        private Color Encode(int decVal, Color pixelClr) { //ENCRYPT CURRENT CHARACTER INTO PIXEL - LEASE SIGNFICANT BIT (LSB)
             //Convert current char and RGBs' int values to binary
             string current = BinaryConversion(decVal);
             string R = BinaryConversion(pixelClr.R);
@@ -208,7 +208,7 @@ namespace Steganography_Encryptor {
             }//end if
         }//end method 
 
-        private string BinaryConversion(int input) {
+        private string BinaryConversion(int input) { //CONVERT CHAR'S ASCII VALUE TO BINARY FORM 
             //Format char's dec value to binary
             string binary = Convert.ToString(input, 2);
 
