@@ -20,4 +20,6 @@ Notes:
 
 - During the encryption process, messages are reversed as to further protect against detection.
 
+- UPDATE (8/11/22): The encoder and decoder has been combined into one program. The save as functionality uses the current image in the encryption tab. UI has been updated. Program will only pick letters and numbers in the message. 
+
 HAPPY CODING!
